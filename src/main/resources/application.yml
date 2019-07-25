@@ -1,0 +1,7 @@
+spring:
+  elasticsearch:
+  jest:
+  connection-timeout: 3000
+  multi-threaded: true
+  uris: 127.0.0.1:9200
+  read-timeout: 7200
